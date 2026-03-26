@@ -1,4 +1,7 @@
-![Home Page](screenshots/home.png)
+## 📸 Screenshots
+
+![FurniVerse Preview](screenshots/home_shop_about.jpeg)
+![FurniVerse Preview](screenshots/contact_blog_services.jpeg)
 
 # Getting Started with Create React App
 
